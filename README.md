@@ -1,2 +1,2 @@
 # Mulu-s-website
- resturant website unfinished
+ Ethiopian Resturant Website
